@@ -38,7 +38,7 @@ If the system does not detect the authorized face, the computer will automatical
 
 Download the latest version here:
 
-https://github.com/voyagerplay/faceid-protector/releases/latest
+https://github.com/VoyagerPlayYT/faceid-protector/releases/tag/v1.0.0
 
 После скачивания установите файл:
 
