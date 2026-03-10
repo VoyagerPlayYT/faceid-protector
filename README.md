@@ -48,7 +48,7 @@ A desktop security tool that uses face detection to protect your computer. If th
 
 Скачать последнюю версию / Download the latest version:
 
-[⬇️ FaceIDProtector.msi — v1.0.0](https://github.com/VoyagerPlayYT/faceid-protector/releases/tag/v1.0.0)
+[⬇️ FaceIDProtector.msi — v1.0.0](https://github.com/VoyagerPlayYT/faceid-protector/releases/tag/v2.0.0)
 
 ---
 
